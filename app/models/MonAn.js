@@ -5,7 +5,6 @@ export class MonAn {
    giaMon = 0;
    khuyenMai = 0;
    tinhTrang = false;
-   boolean = "";
    hinhAnh = "";
    moTa = "";
    constructor() {}
